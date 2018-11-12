@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Path to geometry config file. If not supplied 'geometry.cfg' is used -->
 <geometry_config_path>./geometry.cfg</geometry_config_path>
+<!-- Unit of angles in geometry config file (deg/rad). If not supplied rad is used -->
+<angle_unit>deg</angle_unit> 
